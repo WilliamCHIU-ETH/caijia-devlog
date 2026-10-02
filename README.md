@@ -28,7 +28,7 @@
 
 ## 一張圖看懂系統
 
-[![菜價有感架構：GitHub 測試、部署與監控；Cloudflare 網站入口、每日排程、同步執行者與資料儲存。](assets/architecture.png)](assets/architecture.png)
+[![菜價有感架構：GitHub 測試、部署與監控；Cloudflare 網站入口、每日排程、同步執行者與資料儲存。](assets/architecture.svg)](assets/architecture.svg)
 
 <p align="center"><sub>2026/10/02 復原後的架構快照。實線表示主要流程，虛線表示手動管理；點開圖片可放大閱讀。</sub></p>
 
